@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "208491622017",
+    "firebase_url": "https://recognize-text-in-images.firebaseio.com",
+    "project_id": "recognize-text-in-images",
+    "storage_bucket": "recognize-text-in-images.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208491622017:android:6829559b04df57d9b2e780",
+        "android_client_info": {
+          "package_name": "com.lutfizone.recognizetext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208491622017-5vp5n48jgocbeic8pu9creiv53tvnbd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfIWdqj9-8y4pI3jPR-7NDsrbx20ysLsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208491622017-5vp5n48jgocbeic8pu9creiv53tvnbd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
